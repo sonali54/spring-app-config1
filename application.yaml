@@ -6,3 +6,5 @@ eureka:
     fetchRegistry: true
    healthcheck:
       enabled: true
+   instance:
+      hostname: localhost
